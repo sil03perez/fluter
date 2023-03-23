@@ -1,0 +1,10 @@
+export 'package:appdos/screens/inputs_screen.dart';
+export 'package:appdos/screens/animated_screen.dart';
+export 'package:appdos/screens/avatar_screen.dart';
+export 'package:appdos/screens/alert_srcreen.dart';
+export 'package:appdos/screens/card_screen.dart';
+export 'package:appdos/screens/listview1_screen.dart';
+export 'package:appdos/screens/listview2_screen%20.dart';
+export 'package:appdos/screens/homeScreen.dart';
+export 'package:appdos/screens/slider_screen.dart';
+export 'package:appdos/screens/listwiew_builder.dart';
